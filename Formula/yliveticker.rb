@@ -3,8 +3,8 @@ class Yliveticker < Formula
 
   desc "Live market data from Yahoo! Finance websocket"
   homepage "https://github.com/yahoofinancelive/yliveticker"
-  url "https://files.pythonhosted.org/packages/80/1f/5b3af413f2d6116e7f6b22543ea2c7c2abeadb711c15d8eebd540f6e34b4/yliveticker-0.5.0.tar.gz"
-  sha256 "041453a2fc5a75ac108cda0886f9f3e0496a8b6cee0b5056a4c9260ad644017c"
+  url "https://github.com/yahoofinancelive/yliveticker/archive/refs/tags/v0.5.4.tar.gz"
+  sha256 "ba5ed12ce7e7c4d76d2c3f92219280e64edc1a1fe64d9fa70d0a27b5d7d89809"
   license "MIT"
 
   depends_on "python@3.12"
